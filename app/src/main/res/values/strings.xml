@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EvotorTest</string>
+    <string name="price_format">Цена: %1$.2f руб.</string>
+    <string name="boxing_format">Упаковка: %1$s</string>
+    <string name="boxing_format_full">Упаковка: %1$s / %2$.2f %3$s</string>
+    <string name="nearest_delivery_date">Ближайшая дата доставки: %1$s</string>
+</resources>
